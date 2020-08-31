@@ -2,7 +2,7 @@
 C program that finds the way out of a labyrinth
 
 Given a labyrinth at the format:
-
+```sh
 M N
 X Y
 ###....#
@@ -11,6 +11,7 @@ X Y
 #.#.####
 #.#.....
 ########
+```
 
 M and N are the amount of lines and rows, X and Y are the (x, y) coordinates of the cursor.
 
