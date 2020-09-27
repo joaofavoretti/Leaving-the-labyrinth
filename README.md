@@ -1,4 +1,4 @@
-# Recursive-C-Algorithm
+# Recursive-C-Algorithm (University project for Introduction on Computer Science II)
 C program that finds the way out of a labyrinth
 
 Given a labyrinth at the format:
