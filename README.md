@@ -1,5 +1,5 @@
-# Recursive-C-Algorithm (University project for Introduction on Computer Science II)
-C program that finds the way out of a labyrinth
+# Leaving the Labyrinth
+(University project for Introduction on Computer Science II)
 
 Given a labyrinth at the format:
 ```sh
